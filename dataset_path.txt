@@ -1,0 +1,5 @@
+{
+"data_path":"./dataset/emotic/mscoco/images",
+"output_path":"./output"
+
+}

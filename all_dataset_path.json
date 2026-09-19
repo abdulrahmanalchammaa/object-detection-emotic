@@ -1,0 +1,7 @@
+{
+    "data": "./data.csv",
+    "ade20k": "./dataset/emotic/ade20k/images",
+    "emodb_small": "./dataset/emotic/emodb_small/images",
+    "framesdb": "./dataset/emotic/framesdb/images",
+    "mscoco": "./dataset/emotic/mscoco/images"
+}
